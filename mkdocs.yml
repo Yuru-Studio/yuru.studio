@@ -17,8 +17,7 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - Member:
-    - 七尾伶: 'Rei_Nanao/index.md'
+  - 七尾伶: 'Rei_Nanao/index.md'
 
 markdown_extensions:
   - pymdownx.emoji:
