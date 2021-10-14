@@ -1,12 +1,23 @@
 site_name: Yuru.Studio
-site_descpiption: "ダンボールの隅"
-site_author: "Yuru Studio"
-site_url: "https://yuru.studio"
+site_descpiption: 'ダンボールの隅'
+site_author: 'Yuru Studio'
+site_url: 'https://yuru.studio'
 
-copyright: "Copyright © 2021 Yuru Studio"
+copyright: 'Copyright © 2021 Yuru Studio'
 
 theme:
-  name: "material"
+  name: 'material'
 
 nav:
-  - Home: "index.md"
+  - Home: 'index.md'
+
+markdown_extensions:
+  - fontawesome_markdown
+  - codehilite
+
+extra:
+  search:
+    language: 'jp'
+
+extra_css:
+  - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
