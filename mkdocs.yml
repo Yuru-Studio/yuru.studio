@@ -7,17 +7,21 @@ copyright: 'Copyright © 2021 Yuru Studio'
 
 theme:
   name: 'material'
+  locale: jp
+  palette:
+    primary: cyan
+    accent: lime
+  font:
+    text: Mono
+
 
 nav:
   - Home: 'index.md'
+  - Member:
+    - 七尾伶: 'Rei_Nanao/index.md'
 
 markdown_extensions:
-  - fontawesome_markdown
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - codehilite
-
-extra:
-  search:
-    language: 'jp'
-
-extra_css:
-  - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"

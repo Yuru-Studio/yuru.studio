@@ -2,9 +2,10 @@
 <img src="../img/normal.jpg" width=25%>
 
 **七尾伶**
+
 頭にダンボールが刺さりがちな猫
 
-:mastodon: [板橋丼](https://itabashi.0j0.jp) のサーバー運営をしています(現在半分放置中)(どうにかする予定はあります)
+:material-mastodon: [板橋丼](https://itabashi.0j0.jp) のサーバー運営をしています(現在半分放置中)(どうにかする予定はあります)
 [Misskey](https://mk.yuru.studio)の運営もしています。ただし実験用インスタンスなので突然吹っ飛ぶと思います。(引っ越しの予定があるので不通になる時期がある)
 
 時々コードを書いたりモデリングをしたりします。ちゃんとやってないので完成したことがない。
@@ -23,11 +24,12 @@
 
 ## Accounts
 事前に連絡もらえれば承認します
-- :twitter: [Twitter](https://twitter.com/rei_nanao)
-- :mastodon: [板橋丼(Itabashi-don)](https://itabashi.0j0.jp/@ReSinnRinn)
+
+- :material-twitter: [Twitter](https://twitter.com/rei_nanao)
+- :material-mastodon: [板橋丼(Itabashi-don)](https://itabashi.0j0.jp/@ReSinnRinn)
 - [mk.iaia.moe](https://mk.iaia.moe/@rei_nanao)
 - [mk.yuru.studio](https://mk.yuru.studio/@rei_nanao)
-- :discord: Discord : 七尾伶#1200
-- :steam: [Steam(Rei_Nanao)](https://steamcommunity.com/profiles/76561198828748684/)
+- :material-discord: Discord : 七尾伶#1200
+- :material-steam: [Steam(Rei_Nanao)](https://steamcommunity.com/profiles/76561198828748684/)
 - [VRChat(rei_nanao)](https://vrchat.com/home/user/usr_4136c877-8c53-457c-9870-a67aecaba42b)
-- :github: [GitHub](https://github.com/Rei-Nanao)
+- :material-github: [GitHub](https://github.com/Rei-Nanao)
