@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Home
+Yuru Studioは、 :twitter: [七尾伶](https://twitter.com/rei_nanao) が作ったものを置く場所です。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Links
+- :github: Github : https://github.com/Yuru-Studio
+- [Misskey](https://mk.yuru.studio)(新規登録停止中)
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## About OMEmber
+[七尾伶](Rei_Nanao/index.md)
